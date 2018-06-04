@@ -12,13 +12,21 @@ Color will change the color of the dot with the R G B dynamic..
 
 
 **import time is not currently used**
+
 imports used:  pygame and from sys exit
 
-Need to add features:
+__Need to add features:__
+
   resize dot to be drawn
+  
   a continuous draw option
+  
   shape options
+  
   help menu
+  
   clear option
+  
   way to save image created
+  
   test test test and another test
